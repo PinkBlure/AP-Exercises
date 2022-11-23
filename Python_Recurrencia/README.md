@@ -1,3 +1,5 @@
+
+
 # ✨ Project's Title: Python - Recurrencia ✨
 
 ## Index
@@ -19,9 +21,7 @@
 ---
 
 ### What does the program do?
-* This is a program to solve the next recurrency.
-
-
+* This is a program to solve the recurrency added in the repository.
 
 ### Why use Python?
 * It uses a symple syntax so its's easier to read and understand, beginner friendly, and has a large and active community.
